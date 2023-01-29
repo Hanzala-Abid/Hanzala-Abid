@@ -46,7 +46,7 @@ const Footer = () => {
           <div className='border-top border-dark'>
             <div className='text-muted py-4 d-center'>© 2022 Bochain Lab. All rights reserved</div>
           </div>
-          
+          <div></div>
           </div>
         </div>
         </div>
